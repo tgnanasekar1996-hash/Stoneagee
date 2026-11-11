@@ -89,7 +89,7 @@ Mix: VO at -12 dB, music at -22 dB under VO (-14 dB when no VO), SFX at -18 dB. 
 ## Voice-over direction
 
 - One narrator: warm, gravelly male storyteller, slow and kind, like an elder by a fire.
-- About 700 words in total (about 5 minutes of speech), leaving the other 5 minutes for pictures, music and sound.
+- About 700 words in total (about 5 minutes of speech), leaving the other 5minutes for pictures, music and sound.
 - Pace about 120 words per minute. Pause a full beat before the final line of each chapter.
 - Characters make only non-verbal sounds (gasps, grunts, laughs, squeaks). No dialogue, no on-screen text except the title card at 00:32 and end card at 09:52.
 - Free options: record your own voice, or use an AI narrator in your language; keep the same voice for all 75 shots.
